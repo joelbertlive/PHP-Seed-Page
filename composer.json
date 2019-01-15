@@ -1,0 +1,17 @@
+{
+	"require":{
+		"bcosca/fatfree": "*",
+                "paquettg/php-html-parser": "*",
+                "parsecsv/php-parsecsv": "0.4.5",
+                "ikkez/f3-cortex": "*",
+		"keboola/csv": "*",
+		"jobapis/jobs-multi": "*",
+		"twilio/sdk": "*",
+		"jaggedsoft/php-binance-api": "@dev",
+		"ccxt/ccxt": "^1.15",
+                "mgp25/instagram-php": "dev-master",
+                "react/http" : "^0.7",
+                "monolog/monolog" : "^1.23.0",
+                "php-console/php-console": "dev-master"
+        }
+}
